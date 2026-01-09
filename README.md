@@ -10,7 +10,7 @@
 - **clean_boulder_weather.csv**  
   Contains cleaned and pre-processed weather data for analysis in Boulder, Colorado.
 
-- **Summary_statistics_weather_data.ipynb**
+- **Summary_Statistics_weather_data.ipynb**
   Uses Pandas to calculate summary statistics of Boulder weather data and examine how transformations affect mean and standard deviation.
 
 - **weather_data_analysis.ipynb**  
